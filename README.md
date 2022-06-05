@@ -3,7 +3,6 @@
  - ✌️ Hi! Daniel here, I'm currently studying Analysis and Systems Development in IFSP
  - 🌱 Brazil [São Paulo]
  - 💻 Begginer in PHP, SQL, Android and JavaScript
- - 🦆 Loves Ducks
 
 ##
 
