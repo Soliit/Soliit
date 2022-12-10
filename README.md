@@ -1,4 +1,4 @@
-## 🦆 About Me 🦆
+## About Me 🦆
 
  - ✌️ Hi! Daniel here, I'm currently studying Analysis and Systems Development in IFSP
  - 🌱 Brazil [São Paulo]
