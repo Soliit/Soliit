@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/65127609/172064581-1daf1818-39b0-47d4-89a2-5719788be06f.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/65127609/172064581-1daf1818-39b0-47d4-89a2-5719788be06f.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
  <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/65127609/172064545-79b81ddb-a51c-4f47-b199-45d886828e8c.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
