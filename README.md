@@ -11,7 +11,6 @@
 </div>
  
 ### I've seen
-
 ##
 
 <div style="display: inline_block"><br>
