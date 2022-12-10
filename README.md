@@ -27,7 +27,7 @@
 ##
      
 <div>
-  <a href="https://www.youtube.com/channel/UC6M08-GxjZyxn0XMtEhXOJw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+  <a href="https://www.youtube.com/channel/UC6M08-GxjZyxn0XMtEhXOJw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/solidaniels" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"><img src="https://img.shields.io/twitch/status/solidaniels?color=cyan&label=Status&logoColor=white&style=for-the-badge">nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
   <a href="https://discord.gg/RCvchpaZQY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
 </div>
