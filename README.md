@@ -2,7 +2,7 @@
 
  - ✌️ Hi! Daniel here, I'm currently studying Analysis and Systems Development in IFSP
  - 🌱 Brazil [São Paulo]
- - 💻 Begginer in Rust, Python and Js
+ - 💻 Learning Python, Rust and Js 
 
 ##
 
@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soliit&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-## I've seen
+### I've seen
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/65127609/172064581-1daf1818-39b0-47d4-89a2-5719788be06f.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
