@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/Soliit">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Soliit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp&nbsp
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Soliit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soliit&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
