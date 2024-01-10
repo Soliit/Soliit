@@ -2,7 +2,7 @@
 
  - ✌️ Hi! Daniel here, I'm currently studying Analysis and Systems Development in IFSP
  - 🌱 Brazil [Sao Paulo]
- - 💻 Learning Python, Rust and Js 
+ - 💻 Learning Back-End and DevOps technologies
 
 <div>
   <a href="https://github.com/Soliit">
